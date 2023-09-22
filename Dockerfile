@@ -1,3 +1,5 @@
+cat Dockerfile
+
 FROM mhart/alpine-node
 
 COPY . /app
